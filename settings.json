@@ -20,6 +20,9 @@
         "database": "randomapi",
         "keepAliveInterval": 5000
     },
+    "stripe": {
+        "key": "sk_test_jP9dCoCOoCqECEISvkjUrrLK"
+    },
     "generators": {
         "basic": {
             "count": 1,
